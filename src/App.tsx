@@ -3,7 +3,7 @@ import React from 'react'
 const App = () => {
   return (
     <div>
-      Sher
+      Sher Start
     </div>
   )
 }
